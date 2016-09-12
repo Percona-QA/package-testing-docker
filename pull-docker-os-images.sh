@@ -20,8 +20,8 @@ fedora:20       # Fedora 20. Always latest
 fedora:21       # Fedora 21. Always latest
 ubuntu:12.04    # Ubuntu 12.04 LTS - precise
 ubuntu:14.04    # Ubuntu 14.04 LTS - trusty
-ubuntu:14.10    # Ubuntu 14.10 LTS - utopic
 ubuntu:15.04    # Ubuntu 15.04 LTS - vivid - (Current Stable)
+ubuntu:16.04    # Unbutu 16.04 LTS - xenial
 debian:6        # Debian 6 - squeeze - Always latest
 debian:7        # Debian 7 - wheezy - Always latest
 debian:8        # Debian 8 - jessie 
